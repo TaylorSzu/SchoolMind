@@ -1,0 +1,506 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Nunito", sans-serif;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.frame {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  background-color: #999999;
+}
+
+.side-bar {
+  background-color: rgb(35, 35, 35);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 20%;
+  height: 100%;
+  padding: 5px;
+  color: white;
+  overflow-y: auto;
+}
+
+.side-bar h3 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.dropdown {
+  background-color: #333;
+  width: 80%;
+  margin-bottom: 10px;
+}
+
+.dropdown-btn {
+  display: flex;
+  align-items: center;
+  background-color: #333;
+  color: white;
+  padding: 10px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.dropdown-btn img {
+  margin-right: 5%;
+}
+
+.dropdown-btn:hover {
+  background-color: #555;
+}
+
+.dropdown-content {
+  display: none;
+  background-color: #444;
+  padding: 0;
+}
+
+.dropdown-content a img {
+  margin-right: 5%;
+  margin-left: 10%;
+}
+
+.dropdown-content a {
+  color: white;
+  padding: 10px;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #555;
+}
+
+.dropdown-content a:hover {
+  background-color: #555;
+}
+
+.show-dropdown {
+  display: block;
+}
+
+.container {
+  background-color: white;
+  width: 100%;
+  height: 100%;
+  padding: 20px;
+  overflow-y: auto;
+}
+
+.criar-turma {
+  position: fixed;
+  top: 55%;
+  left: 60%;
+  transform: translate(-50%, -50%);
+  width: 30%;
+  height: 70%;
+  display: none;
+  z-index: 1000;
+  background-color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.criar-turma form {
+  display: flex;
+  flex-direction: column;
+}
+
+.btn-criar-turma {
+  width: 100%;
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.btn-acao-turma {
+  width: 20%;
+  height: 40%;
+  border: none;
+  background-color: white;
+  font-size: 16px;
+  margin-right: 5%;
+  cursor: pointer;
+}
+
+.btn-acao-turma:hover {
+  transform: scale(1.1);
+}
+
+.editar-turma {
+  position: fixed;
+  top: 55%;
+  left: 60%;
+  transform: translate(-50%, -50%);
+  width: 30%;
+  height: 70%;
+  display: none;
+  z-index: 1000;
+  background-color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.editar-turma form {
+  display: flex;
+  flex-direction: column;
+}
+
+.gerenciar-turma {
+  display: none;
+  width: 100%;
+  height: 10%;
+  align-items: center;
+  flex-direction: column;
+}
+
+.container-lista {
+  background-color: white;
+  width: 90%;
+  height: auto;
+  border-radius: 20px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  padding: 20px 30px;
+  margin-bottom: 30px;
+  position: relative;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.container-lista:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+.container-lista h1 {
+  margin: 0;
+  font-size: 22px;
+  font-weight: bold;
+  color: #222222;
+}
+
+.container-lista h2 {
+  font-size: 18px;
+  margin-top: 10px;
+  font-weight: 500;
+  color: #555555;
+}
+
+.container-lista h3 {
+  margin-top: 8px;
+  font-size: 16px;
+  color: #777777;
+}
+
+.container-lista h4 {
+  font-size: 14px;
+  color: #999999;
+  margin: 0;
+  position: absolute;
+  top: 10px;
+  right: 20px;
+}
+
+.container-lista .opcoes {
+  border: 2px solid #dddddd;
+  background-color: #f9f9f9;
+  padding: 8px 15px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  position: absolute;
+  top: 75px;
+  right: 15px;
+  transition: background-color 0.2s, border-color 0.2s;
+}
+
+.acoes-turma {
+  width: 12%;
+  height: 5.5vh;
+  gap: 10px;
+  display: flex;
+  justify-content: flex-end;
+  align-content: center;
+  position: absolute;
+  margin-left: 83%;
+  margin-top: -5%;
+}
+
+.acoes-turma button {
+  background-color: #ffffff;
+  border: 2px solid #ddd;
+  border-radius: 50%;
+  cursor: pointer;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.3s, border 0.3s;
+}
+
+.acoes-turma button:hover {
+  background-color: #f5f5f5;
+  border: 2px solid #bbb;
+}
+
+.acoes-turma img {
+  width: 18px;
+  height: 18px;
+}
+
+.material-didatico {
+  display: none;
+  width: 100%;
+  height: 92vh;
+  align-items: center;
+  flex-direction: column;
+}
+
+.container-postar-material {
+  position: fixed;
+  top: 53%;
+  left: 60%;
+  transform: translate(-50%, -50%);
+  width: 50%;
+  height: 80%;
+  display: none;
+  z-index: 1000;
+  background-color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  border-radius: 8px;
+  overflow-y: auto;
+}
+
+.container-postar-material h1 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 15px;
+}
+
+.container-postar-material hr {
+  border: 0;
+  height: 2px;
+  background-color: #ddd;
+  margin-bottom: 20px;
+}
+
+.container-postar-material label {
+  font-size: 16px;
+  font-weight: 600;
+  color: #555;
+  display: block;
+  margin-bottom: 8px;
+}
+
+.container-postar-material #descricao {
+  resize: none;
+  height: 70px;
+}
+
+.container-postar-material textarea {
+  resize: none;
+  height: 170px;
+}
+
+.container-postar-material select {
+  appearance: none;
+  background: #fff url("img/down-arrow.png") no-repeat right 10px center;
+  background-size: 16px;
+}
+
+.container-postar-material input[type="file"] {
+  width: 95%;
+  font-size: 14px;
+  color: #333;
+}
+
+.btn-postar-material {
+  bottom: 20px;
+  left: 20px;
+  right: 20px;
+  display: flex;
+  justify-content: flex-end;
+  gap: 15px;
+}
+
+.btn-acao-material {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.2s;
+}
+
+.btn-acao-material:hover {
+  transform: translateY(-2px);
+}
+
+.btn-acao-material[type="reset"] {
+  background-color: #ddd;
+  color: #555;
+}
+
+.btn-acao-material[type="reset"]:hover {
+  background-color: #bbb;
+}
+
+.btn-acao-material[type="submit"] {
+  background-color: #333;
+  color: #fff;
+}
+
+.btn-acao-material[type="submit"]:hover {
+  background-color: #555;
+}
+
+#arquivo {
+  width: 100%;
+}
+
+.acao-turma {
+  background-color: #ffffff;
+  border: 2px solid #ddd;
+  border-radius: 50%;
+  cursor: pointer;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background-color 0.3s, border 0.3s;
+}
+
+.acao-turma:hover {
+  background-color: #f5f5f5;
+  border: 2px solid #bbb;
+}
+
+.acao-turma img {
+  width: 18px;
+  height: 18px;
+}
+
+.gerenciar-turma-aluno h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn.btn-primary {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.conteiner-aluno {
+  position: fixed;
+  top: 53%;
+  left: 60%;
+  transform: translate(-50%, -50%);
+  width: 50%;
+  height: 80%;
+  display: none;
+  z-index: 1000;
+  background-color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  border-radius: 8px;
+  overflow-y: auto;
+}
+
+.btn-add-aluno {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+}
+
+.btn-add-aluno button {
+  margin-right: 10px;
+}
+
+.table {
+  background-color: #fff;
+  border-collapse: collapse;
+  width: 100%;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  margin: 0 auto;
+}
+
+.table thead th {
+  background-color: #007bff;
+  color: #ffffff;
+  font-weight: bold;
+  text-align: center; 
+  padding: 10px;
+}
+
+.table tbody td, 
+.table tbody th {  
+  text-align: center;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
+.table tbody tr:nth-of-type(even) {
+  background-color: #f2f2f2;
+}
+
+.table tbody tr:hover {
+  background-color: #f1f1f1;
+}
+
+.acao-aluno {
+  background-color: #ffffff;
+  border: 2px solid #ddd;
+  border-radius: 50%;
+  cursor: pointer;
+  width: 40px;
+  height: 40px;
+  transition: background-color 0.3s, border 0.3s;
+}
+
+.acao-aluno:hover {
+  background-color: #f5f5f5;
+  border: 2px solid #bbb;
+}
+
+.acao-aluno img {
+  width: 18px;
+  height: 18px;
+}
+
+.gerenciar-turma-aluno {
+  display: none;
+  width: 100%;
+  height: 10%;
+  align-items: center;
+  flex-direction: column;
+}

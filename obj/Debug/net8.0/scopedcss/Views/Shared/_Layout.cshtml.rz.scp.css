@@ -1,0 +1,144 @@
+*[b-qhj1v230tm] {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: "Nunito", sans-serif;
+}
+
+body[b-qhj1v230tm] {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.conteiner-body[b-qhj1v230tm] {
+  flex: 1;
+  overflow: hidden;
+}
+
+.top-bar[b-qhj1v230tm] {
+  background-color: black;
+  width: 100%;
+  height: 8vh;
+  display: flex;
+  align-items: center;
+  padding: 0 1%;
+}
+
+.top-bar .logo-bar[b-qhj1v230tm] {
+  height: 70%;
+  margin-right: 10px;
+}
+
+.top-bar .perfil[b-qhj1v230tm] {
+  height: 50%;
+  margin-left: auto;
+  cursor: pointer;
+}
+
+.top-bar h2[b-qhj1v230tm] {
+  color: white;
+  font-size: 30px;
+}
+
+.sub-menu-wrap[b-qhj1v230tm] {
+  position: absolute;
+  z-index: 1000;
+  top: 9%;
+  right: 1%;
+  width: 320px;
+  max-height: 0px;
+  overflow: hidden;
+  transition: max-height 0.5s;
+}
+
+.sub-menu-wrap.open-menu[b-qhj1v230tm] {
+  max-height: 400px;
+}
+
+.sub-menu[b-qhj1v230tm] {
+  background: #fff;
+  padding: 20px;
+  margin: 10px;
+}
+
+.user-info[b-qhj1v230tm] {
+  display: flex;
+  align-items: center;
+}
+
+.user-info img[b-qhj1v230tm] {
+  width: 30%;
+  border-radius: 50%;
+  margin-right: 10%;
+}
+
+.sub-menu hr[b-qhj1v230tm] {
+  border: 0;
+  height: 1px;
+  width: 100%;
+  background: #ccc;
+  margin: 15px 0 10px;
+}
+
+.sub-menu-link[b-qhj1v230tm] {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: #525252;
+  margin: 12px 0;
+}
+
+.sub-menu-link p[b-qhj1v230tm] {
+  width: 100%;
+}
+
+.sub-menu-link img[b-qhj1v230tm] {
+  width: 40px;
+  background: #e5e5e5;
+  border-radius: 50%;
+  padding: 8px;
+  margin-right: 15px;
+}
+
+.sub-menu-link span[b-qhj1v230tm] {
+  font-size: 22px;
+  transition: transform 0.5s;
+}
+
+.sub-menu-link:hover span[b-qhj1v230tm] {
+  transform: translateX(5px);
+}
+
+.sub-menu-link:hover p[b-qhj1v230tm] {
+  font-weight: 600;
+}
+
+@media (max-width: 768px) {
+  .top-bar h2[b-qhj1v230tm] {
+      font-size: 20px;
+  }
+
+  .top-bar .perfil[b-qhj1v230tm] {
+      height: 40%;
+  }
+
+  .sub-menu-wrap[b-qhj1v230tm] {
+      width: 100%;
+      top: 60px;
+      right: 0;
+  }
+
+  .sub-menu[b-qhj1v230tm] {
+      padding: 10px;
+  }
+
+  .sub-menu-link img[b-qhj1v230tm] {
+      width: 30px;
+      padding: 5px;
+  }
+
+  .sub-menu-link span[b-qhj1v230tm] {
+      font-size: 18px;
+  }
+}
