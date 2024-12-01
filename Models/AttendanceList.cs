@@ -7,17 +7,16 @@ namespace School_Mind.Models
 {
     public class AttendanceList
     {
-        public int Id { get; set; }
-        public Boolean isPresent { get; set; }
-        public DateTime Date { get; set; }
-        public DateTime Hour { get; set; }
+    public int Id { get; set; } // Identificador único para a presença.
 
-        //Relacionamento com turma
-        public int AccountId { get; set; }
-        public Account Creator { get; set; }
+    public DateTime Date { get; set; } // Data e hora da aula.
+    public bool IsPresent { get; set; }
 
-        //Relacionamento com conta
-        public int ClassId { get; set; }
-        public Class Class { get; set; }
+    public int ClassId { get; set; } // Relacionamento com a turma.
+    public Class? Class { get; set; }
+
+    public int StudentId { get; set; } // Relacionamento com o aluno.
+    public StudentProfile? Student { get; set; }
+
     }
 }

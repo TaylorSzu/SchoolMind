@@ -45,12 +45,20 @@ namespace School_Mind.Services
         
         public async Task<ICollection<Class>> listAll()
         {
-            return await schoolMindContext.Class.Include(c => c.Creator).Include(c => c.Students).ThenInclude(sp => sp.Account).ToListAsync();
+            return await schoolMindContext.Class.Include(c => c.Creator)
+                .Include(c => c.Students)
+                .Include(c => c.Calendars)
+                .Include(c => c.TeachingMaterials)
+                .ThenInclude(sp => sp.Creator).ToListAsync();
         }
 
         public async Task<Class> findById(int id)
         {
-            return await schoolMindContext.Class.Include(c => c.Creator).FirstOrDefaultAsync(c => c.Id == id);
+            return await schoolMindContext.Class.Include(c => c.Creator)
+                .Include(c => c.Students)
+                .Include(c => c.Calendars)
+                .Include(c => c.TeachingMaterials)
+                .FirstOrDefaultAsync(c => c.Id == id);
         }
 
 

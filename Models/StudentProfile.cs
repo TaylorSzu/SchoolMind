@@ -20,5 +20,7 @@ namespace School_Mind.Models
         //Relacionamento com a turma e o estudante
         public int? ClassId { get; set; }
         public Class Class { get; set; }
+
+        public ICollection<AttendanceList> AttendanceLists { get; set; }
     }
 }

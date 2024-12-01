@@ -23,6 +23,7 @@ builder.Services.AddScoped<IClassRepository, ClassService>();
 builder.Services.AddScoped<ICalendarRepository, CalendarService>();
 builder.Services.AddScoped<ITeachingMaterialRepository, TeachingMaterialService>();
 builder.Services.AddScoped<IStudentProfileRepository, StudentService>();
+builder.Services.AddScoped<IAttendanceListRepository, AttendanceListService>();
 
 var app = builder.Build();
 
