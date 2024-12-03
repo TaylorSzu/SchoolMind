@@ -5,16 +5,8 @@
       "PackagePath": "staticwebassets\\School Mind.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\css\\professor.css",
-      "PackagePath": "staticwebassets\\css\\professor.css"
-    },
-    {
       "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
-    },
-    {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\css\\student.css",
-      "PackagePath": "staticwebassets\\css\\student.css"
     },
     {
       "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\css\\style.css",
@@ -139,10 +131,6 @@
     {
       "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\visualizar.png",
       "PackagePath": "staticwebassets\\img\\visualizar.png"
-    },
-    {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\js\\professor.js",
-      "PackagePath": "staticwebassets\\js\\professor.js"
     },
     {
       "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\js\\script.js",
