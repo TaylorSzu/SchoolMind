@@ -1,0 +1,17 @@
+body {
+    background-color: #f9f9f9;
+}
+
+.card {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.btn-danger {
+    background-color: #ff4d4d;
+    border: none;
+}
+
+.btn-success {
+    background-color: #28a745;
+    border: none;
+}
