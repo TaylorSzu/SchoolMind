@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "rOQ1y/PZjXdnHsTfkLbPp14zSU8ARR2t3tyMKbex7lc=",
+  "Hash": "vkoWHYxdnhXdi5kheZPvlhCzIcvLp1pm2xwXVBU5fdo=",
   "Source": "School Mind",
   "BasePath": "_content/School Mind",
   "Mode": "Default",
@@ -680,6 +680,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/img/visualizar.png"
+    },
+    {
+      "Identity": "/home/taylor/SchoolMind/wwwroot/js/class.js",
+      "SourceId": "School Mind",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
+      "BasePath": "_content/School Mind",
+      "RelativePath": "js/class.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/class.js"
     },
     {
       "Identity": "/home/taylor/SchoolMind/wwwroot/js/script.js",

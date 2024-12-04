@@ -137,6 +137,10 @@
       "PackagePath": "staticwebassets/img/visualizar.png"
     },
     {
+      "Id": "/home/taylor/SchoolMind/wwwroot/js/class.js",
+      "PackagePath": "staticwebassets/js/class.js"
+    },
+    {
       "Id": "/home/taylor/SchoolMind/wwwroot/js/script.js",
       "PackagePath": "staticwebassets/js/script.js"
     },

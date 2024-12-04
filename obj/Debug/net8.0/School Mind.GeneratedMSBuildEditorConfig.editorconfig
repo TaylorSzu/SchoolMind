@@ -26,6 +26,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /home/taylor/SchoolMind
 build_property._RazorSourceGeneratorDebug = 
 
+[/home/taylor/SchoolMind/Views/Class/EditClass.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xhc3MvRWRpdENsYXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/taylor/SchoolMind/Views/Class/NewClass.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xhc3MvTmV3Q2xhc3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

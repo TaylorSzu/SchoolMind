@@ -23,6 +23,10 @@ namespace School_Mind.Controllers
             return PartialView("NewClass");
         }
 
+        public IActionResult EditClass(){
+            return PartialView("EditClass");
+        }
+
         public IActionResult Index()
         {
             return View();
