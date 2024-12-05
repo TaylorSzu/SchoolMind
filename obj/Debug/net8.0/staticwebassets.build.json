@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Etv2mepcHgOnsO94JjguddeS1MHg+cWNR8sDhfWHFEc=",
+  "Hash": "vkoWHYxdnhXdi5kheZPvlhCzIcvLp1pm2xwXVBU5fdo=",
   "Source": "School Mind",
   "BasePath": "_content/School Mind",
   "Mode": "Default",
@@ -8,19 +8,19 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "School Mind\\wwwroot",
+      "Name": "School Mind/wwwroot",
       "Source": "School Mind",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\obj\\Debug\\net8.0\\scopedcss\\bundle\\School Mind.styles.css",
+      "Identity": "/home/taylor/SchoolMind/obj/Debug/net8.0/scopedcss/bundle/School Mind.styles.css",
       "SourceId": "School Mind",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "/home/taylor/SchoolMind/obj/Debug/net8.0/scopedcss/bundle/",
       "BasePath": "_content/School Mind",
       "RelativePath": "School Mind.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\taylo\\Downloads\\SchoolMind\\obj\\Debug\\net8.0\\scopedcss\\bundle\\School Mind.styles.css"
+      "OriginalItemSpec": "/home/taylor/SchoolMind/obj/Debug/net8.0/scopedcss/bundle/School Mind.styles.css"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\School Mind.bundle.scp.css",
+      "Identity": "/home/taylor/SchoolMind/obj/Debug/net8.0/scopedcss/projectbundle/School Mind.bundle.scp.css",
       "SourceId": "School Mind",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "/home/taylor/SchoolMind/obj/Debug/net8.0/scopedcss/projectbundle/",
       "BasePath": "_content/School Mind",
       "RelativePath": "School Mind.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,32 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\taylo\\Downloads\\SchoolMind\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\School Mind.bundle.scp.css"
+      "OriginalItemSpec": "/home/taylor/SchoolMind/obj/Debug/net8.0/scopedcss/projectbundle/School Mind.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\css\\site.css",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/css/class.css",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
+      "BasePath": "_content/School Mind",
+      "RelativePath": "css/class.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/class.css"
+    },
+    {
+      "Identity": "/home/taylor/SchoolMind/wwwroot/css/site.css",
+      "SourceId": "School Mind",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -71,13 +90,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\site.css"
+      "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\css\\style.css",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/css/style.css",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -90,13 +109,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\style.css"
+      "OriginalItemSpec": "wwwroot/css/style.css"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\favicon.ico",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/favicon.ico",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -109,13 +128,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.ico"
+      "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\agendar.png",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/img/agendar.png",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "img/agendar.png",
       "AssetKind": "All",
@@ -128,13 +147,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\agendar.png"
+      "OriginalItemSpec": "wwwroot/img/agendar.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\atividade.png",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/img/atividade.png",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "img/atividade.png",
       "AssetKind": "All",
@@ -147,13 +166,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\atividade.png"
+      "OriginalItemSpec": "wwwroot/img/atividade.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\botao-adicionar.png",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/img/botao-adicionar.png",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "img/botao-adicionar.png",
       "AssetKind": "All",
@@ -166,13 +185,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\botao-adicionar.png"
+      "OriginalItemSpec": "wwwroot/img/botao-adicionar.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\caderno-alternativo.png",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/img/caderno-alternativo.png",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "img/caderno-alternativo.png",
       "AssetKind": "All",
@@ -185,13 +204,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\caderno-alternativo.png"
+      "OriginalItemSpec": "wwwroot/img/caderno-alternativo.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\calendario.png",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/img/calendario.png",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "img/calendario.png",
       "AssetKind": "All",
@@ -204,13 +223,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\calendario.png"
+      "OriginalItemSpec": "wwwroot/img/calendario.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\editar.png",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/img/editar.png",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "img/editar.png",
       "AssetKind": "All",
@@ -223,13 +242,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\editar.png"
+      "OriginalItemSpec": "wwwroot/img/editar.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\engrenagem.png",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/img/engrenagem.png",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "img/engrenagem.png",
       "AssetKind": "All",
@@ -242,13 +261,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\engrenagem.png"
+      "OriginalItemSpec": "wwwroot/img/engrenagem.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\envio.png",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/img/envio.png",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "img/envio.png",
       "AssetKind": "All",
@@ -261,13 +280,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\envio.png"
+      "OriginalItemSpec": "wwwroot/img/envio.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\estatisticas.png",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/img/estatisticas.png",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "img/estatisticas.png",
       "AssetKind": "All",
@@ -280,13 +299,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\estatisticas.png"
+      "OriginalItemSpec": "wwwroot/img/estatisticas.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\excluir.png",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/img/excluir.png",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "img/excluir.png",
       "AssetKind": "All",
@@ -299,13 +318,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\excluir.png"
+      "OriginalItemSpec": "wwwroot/img/excluir.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\gerenciar-turma.png",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/img/gerenciar-turma.png",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "img/gerenciar-turma.png",
       "AssetKind": "All",
@@ -318,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\gerenciar-turma.png"
+      "OriginalItemSpec": "wwwroot/img/gerenciar-turma.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\help.png",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/img/help.png",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "img/help.png",
       "AssetKind": "All",
@@ -337,13 +356,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\help.png"
+      "OriginalItemSpec": "wwwroot/img/help.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\lista-presenca.png",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/img/lista-presenca.png",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "img/lista-presenca.png",
       "AssetKind": "All",
@@ -356,13 +375,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\lista-presenca.png"
+      "OriginalItemSpec": "wwwroot/img/lista-presenca.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\lista.png",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/img/lista.png",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "img/lista.png",
       "AssetKind": "All",
@@ -375,13 +394,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\lista.png"
+      "OriginalItemSpec": "wwwroot/img/lista.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\logo.png",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/img/logo.png",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "img/logo.png",
       "AssetKind": "All",
@@ -394,13 +413,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\logo.png"
+      "OriginalItemSpec": "wwwroot/img/logo.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\logout.png",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/img/logout.png",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "img/logout.png",
       "AssetKind": "All",
@@ -413,13 +432,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\logout.png"
+      "OriginalItemSpec": "wwwroot/img/logout.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\lupa.png",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/img/lupa.png",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "img/lupa.png",
       "AssetKind": "All",
@@ -432,13 +451,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\lupa.png"
+      "OriginalItemSpec": "wwwroot/img/lupa.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\mais.png",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/img/mais.png",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "img/mais.png",
       "AssetKind": "All",
@@ -451,13 +470,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\mais.png"
+      "OriginalItemSpec": "wwwroot/img/mais.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\material.png",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/img/material.png",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "img/material.png",
       "AssetKind": "All",
@@ -470,13 +489,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\material.png"
+      "OriginalItemSpec": "wwwroot/img/material.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\para-fazer-tudo.png",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/img/para-fazer-tudo.png",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "img/para-fazer-tudo.png",
       "AssetKind": "All",
@@ -489,13 +508,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\para-fazer-tudo.png"
+      "OriginalItemSpec": "wwwroot/img/para-fazer-tudo.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\perfil.png",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/img/perfil.png",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "img/perfil.png",
       "AssetKind": "All",
@@ -508,13 +527,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\perfil.png"
+      "OriginalItemSpec": "wwwroot/img/perfil.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\pontos.png",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/img/pontos.png",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "img/pontos.png",
       "AssetKind": "All",
@@ -527,13 +546,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\pontos.png"
+      "OriginalItemSpec": "wwwroot/img/pontos.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\profile.png",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/img/profile.png",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "img/profile.png",
       "AssetKind": "All",
@@ -546,13 +565,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\profile.png"
+      "OriginalItemSpec": "wwwroot/img/profile.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\relatorio.png",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/img/relatorio.png",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "img/relatorio.png",
       "AssetKind": "All",
@@ -565,13 +584,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\relatorio.png"
+      "OriginalItemSpec": "wwwroot/img/relatorio.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\setting.png",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/img/setting.png",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "img/setting.png",
       "AssetKind": "All",
@@ -584,13 +603,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\setting.png"
+      "OriginalItemSpec": "wwwroot/img/setting.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\teste.png",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/img/teste.png",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "img/teste.png",
       "AssetKind": "All",
@@ -603,13 +622,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\teste.png"
+      "OriginalItemSpec": "wwwroot/img/teste.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\turma.png",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/img/turma.png",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "img/turma.png",
       "AssetKind": "All",
@@ -622,13 +641,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\turma.png"
+      "OriginalItemSpec": "wwwroot/img/turma.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\visualizar-agenda.png",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/img/visualizar-agenda.png",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "img/visualizar-agenda.png",
       "AssetKind": "All",
@@ -641,13 +660,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\visualizar-agenda.png"
+      "OriginalItemSpec": "wwwroot/img/visualizar-agenda.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\visualizar.png",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/img/visualizar.png",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "img/visualizar.png",
       "AssetKind": "All",
@@ -660,13 +679,32 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\visualizar.png"
+      "OriginalItemSpec": "wwwroot/img/visualizar.png"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\js\\script.js",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/js/class.js",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
+      "BasePath": "_content/School Mind",
+      "RelativePath": "js/class.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/class.js"
+    },
+    {
+      "Identity": "/home/taylor/SchoolMind/wwwroot/js/script.js",
+      "SourceId": "School Mind",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "js/script.js",
       "AssetKind": "All",
@@ -679,13 +717,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\script.js"
+      "OriginalItemSpec": "wwwroot/js/script.js"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\js\\site.js",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/js/site.js",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -698,13 +736,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\site.js"
+      "OriginalItemSpec": "wwwroot/js/site.js"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\js\\student.js",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/js/student.js",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "js/student.js",
       "AssetKind": "All",
@@ -717,13 +755,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\student.js"
+      "OriginalItemSpec": "wwwroot/js/student.js"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -736,13 +774,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -755,13 +793,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -774,13 +812,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -793,13 +831,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -812,13 +850,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -831,13 +869,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -850,13 +888,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -869,13 +907,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -888,13 +926,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -907,13 +945,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -926,13 +964,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -945,13 +983,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -964,13 +1002,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -983,13 +1021,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1002,13 +1040,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1021,13 +1059,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1040,13 +1078,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1059,13 +1097,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1078,13 +1116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1097,13 +1135,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1116,13 +1154,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1135,13 +1173,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1154,13 +1192,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1173,13 +1211,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1192,13 +1230,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1211,13 +1249,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1230,13 +1268,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1249,13 +1287,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1268,13 +1306,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1287,13 +1325,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1306,13 +1344,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1325,13 +1363,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1344,13 +1382,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1363,13 +1401,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1382,13 +1420,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1401,13 +1439,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1420,13 +1458,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1439,13 +1477,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1458,13 +1496,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1477,13 +1515,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1496,13 +1534,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1515,13 +1553,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1534,13 +1572,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1553,13 +1591,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/LICENSE",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1572,13 +1610,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
+      "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1591,13 +1629,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1610,13 +1648,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1629,13 +1667,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1648,13 +1686,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1667,13 +1705,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1686,13 +1724,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1705,13 +1743,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/jquery-validation/LICENSE.md",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1724,13 +1762,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
+      "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/jquery/dist/jquery.js",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1743,13 +1781,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/jquery/dist/jquery.min.js",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1762,13 +1800,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/jquery/dist/jquery.min.map",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1781,13 +1819,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+      "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "/home/taylor/SchoolMind/wwwroot/lib/jquery/LICENSE.txt",
       "SourceId": "School Mind",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\",
+      "ContentRoot": "/home/taylor/SchoolMind/wwwroot/",
       "BasePath": "_content/School Mind",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1800,7 +1838,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+      "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
     }
   ]
 }

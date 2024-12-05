@@ -3,9 +3,14 @@
 }
 
 @section styles {
-    <link rel="stylesheet" href="~/css/professor.css" />
+    <link rel="stylesheet" href="~/css/class.css" />
 }
 
 @section scripts {
-    <script src="~/js/professor.js"></script>
+    <script src="~/js/class.js"></script>
 }
+
+<div id="form-container">
+    @await Html.PartialAsync("~/Views/Class/NewClass.cshtml")
+    @await Html.PartialAsync("~/Views/Class/EditClass.cshtml")
+</div>

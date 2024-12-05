@@ -19,6 +19,14 @@ namespace School_Mind.Controllers
             _classRepository = classRepository;
         }
 
+        public IActionResult NewClass(){
+            return PartialView("NewClass");
+        }
+
+        public IActionResult EditClass(){
+            return PartialView("EditClass");
+        }
+
         public IActionResult Index()
         {
             return View();

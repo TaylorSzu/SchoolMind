@@ -1,391 +1,399 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\School Mind.bundle.scp.css",
-      "PackagePath": "staticwebassets\\School Mind.bundle.scp.css"
+      "Id": "/home/taylor/SchoolMind/obj/Debug/net8.0/scopedcss/projectbundle/School Mind.bundle.scp.css",
+      "PackagePath": "staticwebassets/School Mind.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
+      "Id": "/home/taylor/SchoolMind/wwwroot/css/class.css",
+      "PackagePath": "staticwebassets/css/class.css"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\css\\style.css",
-      "PackagePath": "staticwebassets\\css\\style.css"
+      "Id": "/home/taylor/SchoolMind/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\favicon.ico",
-      "PackagePath": "staticwebassets\\favicon.ico"
+      "Id": "/home/taylor/SchoolMind/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\agendar.png",
-      "PackagePath": "staticwebassets\\img\\agendar.png"
+      "Id": "/home/taylor/SchoolMind/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\atividade.png",
-      "PackagePath": "staticwebassets\\img\\atividade.png"
+      "Id": "/home/taylor/SchoolMind/wwwroot/img/agendar.png",
+      "PackagePath": "staticwebassets/img/agendar.png"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\botao-adicionar.png",
-      "PackagePath": "staticwebassets\\img\\botao-adicionar.png"
+      "Id": "/home/taylor/SchoolMind/wwwroot/img/atividade.png",
+      "PackagePath": "staticwebassets/img/atividade.png"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\caderno-alternativo.png",
-      "PackagePath": "staticwebassets\\img\\caderno-alternativo.png"
+      "Id": "/home/taylor/SchoolMind/wwwroot/img/botao-adicionar.png",
+      "PackagePath": "staticwebassets/img/botao-adicionar.png"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\calendario.png",
-      "PackagePath": "staticwebassets\\img\\calendario.png"
+      "Id": "/home/taylor/SchoolMind/wwwroot/img/caderno-alternativo.png",
+      "PackagePath": "staticwebassets/img/caderno-alternativo.png"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\editar.png",
-      "PackagePath": "staticwebassets\\img\\editar.png"
+      "Id": "/home/taylor/SchoolMind/wwwroot/img/calendario.png",
+      "PackagePath": "staticwebassets/img/calendario.png"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\engrenagem.png",
-      "PackagePath": "staticwebassets\\img\\engrenagem.png"
+      "Id": "/home/taylor/SchoolMind/wwwroot/img/editar.png",
+      "PackagePath": "staticwebassets/img/editar.png"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\envio.png",
-      "PackagePath": "staticwebassets\\img\\envio.png"
+      "Id": "/home/taylor/SchoolMind/wwwroot/img/engrenagem.png",
+      "PackagePath": "staticwebassets/img/engrenagem.png"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\estatisticas.png",
-      "PackagePath": "staticwebassets\\img\\estatisticas.png"
+      "Id": "/home/taylor/SchoolMind/wwwroot/img/envio.png",
+      "PackagePath": "staticwebassets/img/envio.png"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\excluir.png",
-      "PackagePath": "staticwebassets\\img\\excluir.png"
+      "Id": "/home/taylor/SchoolMind/wwwroot/img/estatisticas.png",
+      "PackagePath": "staticwebassets/img/estatisticas.png"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\gerenciar-turma.png",
-      "PackagePath": "staticwebassets\\img\\gerenciar-turma.png"
+      "Id": "/home/taylor/SchoolMind/wwwroot/img/excluir.png",
+      "PackagePath": "staticwebassets/img/excluir.png"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\help.png",
-      "PackagePath": "staticwebassets\\img\\help.png"
+      "Id": "/home/taylor/SchoolMind/wwwroot/img/gerenciar-turma.png",
+      "PackagePath": "staticwebassets/img/gerenciar-turma.png"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\lista-presenca.png",
-      "PackagePath": "staticwebassets\\img\\lista-presenca.png"
+      "Id": "/home/taylor/SchoolMind/wwwroot/img/help.png",
+      "PackagePath": "staticwebassets/img/help.png"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\lista.png",
-      "PackagePath": "staticwebassets\\img\\lista.png"
+      "Id": "/home/taylor/SchoolMind/wwwroot/img/lista-presenca.png",
+      "PackagePath": "staticwebassets/img/lista-presenca.png"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\logo.png",
-      "PackagePath": "staticwebassets\\img\\logo.png"
+      "Id": "/home/taylor/SchoolMind/wwwroot/img/lista.png",
+      "PackagePath": "staticwebassets/img/lista.png"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\logout.png",
-      "PackagePath": "staticwebassets\\img\\logout.png"
+      "Id": "/home/taylor/SchoolMind/wwwroot/img/logo.png",
+      "PackagePath": "staticwebassets/img/logo.png"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\lupa.png",
-      "PackagePath": "staticwebassets\\img\\lupa.png"
+      "Id": "/home/taylor/SchoolMind/wwwroot/img/logout.png",
+      "PackagePath": "staticwebassets/img/logout.png"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\mais.png",
-      "PackagePath": "staticwebassets\\img\\mais.png"
+      "Id": "/home/taylor/SchoolMind/wwwroot/img/lupa.png",
+      "PackagePath": "staticwebassets/img/lupa.png"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\material.png",
-      "PackagePath": "staticwebassets\\img\\material.png"
+      "Id": "/home/taylor/SchoolMind/wwwroot/img/mais.png",
+      "PackagePath": "staticwebassets/img/mais.png"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\para-fazer-tudo.png",
-      "PackagePath": "staticwebassets\\img\\para-fazer-tudo.png"
+      "Id": "/home/taylor/SchoolMind/wwwroot/img/material.png",
+      "PackagePath": "staticwebassets/img/material.png"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\perfil.png",
-      "PackagePath": "staticwebassets\\img\\perfil.png"
+      "Id": "/home/taylor/SchoolMind/wwwroot/img/para-fazer-tudo.png",
+      "PackagePath": "staticwebassets/img/para-fazer-tudo.png"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\pontos.png",
-      "PackagePath": "staticwebassets\\img\\pontos.png"
+      "Id": "/home/taylor/SchoolMind/wwwroot/img/perfil.png",
+      "PackagePath": "staticwebassets/img/perfil.png"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\profile.png",
-      "PackagePath": "staticwebassets\\img\\profile.png"
+      "Id": "/home/taylor/SchoolMind/wwwroot/img/pontos.png",
+      "PackagePath": "staticwebassets/img/pontos.png"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\relatorio.png",
-      "PackagePath": "staticwebassets\\img\\relatorio.png"
+      "Id": "/home/taylor/SchoolMind/wwwroot/img/profile.png",
+      "PackagePath": "staticwebassets/img/profile.png"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\setting.png",
-      "PackagePath": "staticwebassets\\img\\setting.png"
+      "Id": "/home/taylor/SchoolMind/wwwroot/img/relatorio.png",
+      "PackagePath": "staticwebassets/img/relatorio.png"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\teste.png",
-      "PackagePath": "staticwebassets\\img\\teste.png"
+      "Id": "/home/taylor/SchoolMind/wwwroot/img/setting.png",
+      "PackagePath": "staticwebassets/img/setting.png"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\turma.png",
-      "PackagePath": "staticwebassets\\img\\turma.png"
+      "Id": "/home/taylor/SchoolMind/wwwroot/img/teste.png",
+      "PackagePath": "staticwebassets/img/teste.png"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\visualizar-agenda.png",
-      "PackagePath": "staticwebassets\\img\\visualizar-agenda.png"
+      "Id": "/home/taylor/SchoolMind/wwwroot/img/turma.png",
+      "PackagePath": "staticwebassets/img/turma.png"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\img\\visualizar.png",
-      "PackagePath": "staticwebassets\\img\\visualizar.png"
+      "Id": "/home/taylor/SchoolMind/wwwroot/img/visualizar-agenda.png",
+      "PackagePath": "staticwebassets/img/visualizar-agenda.png"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\js\\script.js",
-      "PackagePath": "staticwebassets\\js\\script.js"
+      "Id": "/home/taylor/SchoolMind/wwwroot/img/visualizar.png",
+      "PackagePath": "staticwebassets/img/visualizar.png"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\js\\site.js",
-      "PackagePath": "staticwebassets\\js\\site.js"
+      "Id": "/home/taylor/SchoolMind/wwwroot/js/class.js",
+      "PackagePath": "staticwebassets/js/class.js"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\js\\student.js",
-      "PackagePath": "staticwebassets\\js\\student.js"
+      "Id": "/home/taylor/SchoolMind/wwwroot/js/script.js",
+      "PackagePath": "staticwebassets/js/script.js"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\LICENSE",
-      "PackagePath": "staticwebassets\\lib\\bootstrap"
+      "Id": "/home/taylor/SchoolMind/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "Id": "/home/taylor/SchoolMind/wwwroot/js/student.js",
+      "PackagePath": "staticwebassets/js/student.js"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\taylo\\Downloads\\SchoolMind\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.School Mind.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/home/taylor/SchoolMind/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.School Mind.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.School Mind.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.School Mind.props",
       "PackagePath": "build\\School Mind.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.School Mind.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.School Mind.props",
       "PackagePath": "buildMultiTargeting\\School Mind.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.School Mind.props",
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.School Mind.props",
       "PackagePath": "buildTransitive\\School Mind.props"
     }
   ],

@@ -12176,19 +12176,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\taylo\\.nuget\\packages\\": {}
+    "/home/taylor/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\taylo\\Downloads\\SchoolMind\\School Mind.csproj",
+      "projectUniqueName": "/home/taylor/SchoolMind/School Mind.csproj",
       "projectName": "School Mind",
-      "projectPath": "C:\\Users\\taylo\\Downloads\\SchoolMind\\School Mind.csproj",
-      "packagesPath": "C:\\Users\\taylo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\taylo\\Downloads\\SchoolMind\\obj\\",
+      "projectPath": "/home/taylor/SchoolMind/School Mind.csproj",
+      "packagesPath": "/home/taylor/.nuget/packages/",
+      "outputPath": "/home/taylor/SchoolMind/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\taylo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/taylor/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -12261,7 +12261,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
